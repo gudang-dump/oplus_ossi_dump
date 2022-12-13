@@ -1,0 +1,18 @@
+## sys_mssi_64_cn_armv82-user 12 SP1A.210812.016 1669800800709 release-keys
+- Manufacturer: oplus
+- Platform: common
+- Codename: ossi
+- Brand: oplus
+- Flavor: sys_mssi_64_cn_armv82-user
+- Release Version: 12
+- Id: SP1A.210812.016
+- Incremental: 1669800800709
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: oplus/ossi/ossi:12/SP1A.210812.016/1669872719120:user/release-keys
+- OTA version: 
+- Branch: sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1669800800709-release-keys-random-text-302562440215290
+- Repo: oplus_ossi_dump
